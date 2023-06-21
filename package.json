@@ -29,6 +29,7 @@
     "chai": "*",
     "mocha": "*",
     "selenium-webdriver": "^4.3.1",
+    "webdriver-io-capture-it": "^4.1.1",
     "webdriverio": "^7.20.5"
   },
   "devDependencies": {

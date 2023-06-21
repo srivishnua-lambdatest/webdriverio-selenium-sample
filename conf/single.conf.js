@@ -1,5 +1,8 @@
+const WdioCaptureIt = require('webdriver-io-capture-it').default;
+
 exports.config = {
   services: [
+    [WdioCaptureIt, {}],
     [
       "lambdatest",
       {
